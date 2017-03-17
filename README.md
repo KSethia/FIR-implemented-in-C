@@ -1,9 +1,9 @@
 # FIR-implemented-in-C
-FIR to be used with a Texas Instrument C6713 processor and AIC23 audio coedc
+Finite Impulse Response filter to be used with a Texas Instrument C6713 processor and AIC23 audio coedc
 
 /*-------------------------------------------------*/
 
-As part of my Real-Time Digital Signal Processing course, a FIR had to be made and implemented.
+As part of my Real-Time Digital Signal Processing course, a Finite Impulse Response filter had to be made and implemented.
 
 The hardware initialisations at the top of the initio.c file was written by Dr Paul Mitcheson and Daniel Harvey, however all the processing code was written by myself and my lab partner.
 
