@@ -1,5 +1,5 @@
 # FIR-implemented-in-C
-Finite Impulse Response filter to be used with a Texas Instrument C6713 processor and AIC23 audio coedc
+Finite Impulse Response filter to be used with a Texas Instrument C6713 processor and AIC23 audio codec
 
 /*-------------------------------------------------*/
 
